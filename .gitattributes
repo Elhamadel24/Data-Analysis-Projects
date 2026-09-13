@@ -1,2 +1,4 @@
 Excel-Projects/AudiCar-2025/*.xlsx filter=lfs diff=lfs merge=lfs -text
 Excel-Projects/Sales/*.xlsx filter=lfs diff=lfs merge=lfs -text
+Power-BI-Projects/Where-Heart-Data-Becomes-Insight/*.csv filter=lfs diff=lfs merge=lfs -text
+Power-BI-Projects/Where-Heart-Data-Becomes-Insight/*.zip filter=lfs diff=lfs merge=lfs -text
